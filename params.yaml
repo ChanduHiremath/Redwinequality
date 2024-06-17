@@ -1,2 +1,5 @@
-#if this is empty  will throuh an error
-key: val
+#Iniatially something needs to kept in this file! if this is empty  will throw an error
+#key: val
+ElasticNet:
+  alpha: 0.1
+  l1_ratio: 0.1
